@@ -1,0 +1,17 @@
+title: French Texture for KH1
+originalAuthor: Fotia
+game: kh1
+description: This will patch all textures of the game Kingdom Hearts Final Mix into French looking
+assets:
+  - name: command2/uitex.bin
+    method: copy
+    source:
+      - name: command2/uitex.bin
+  - name: gumi/gumi_tex.bin
+    method: copy
+    source:
+      - name: gumi/gumi_tex.bin
+  - name: title/title.img
+    method: copy
+    source:
+      - name: title/title.img
